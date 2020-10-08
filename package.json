@@ -1,0 +1,26 @@
+{
+  "name": "synupapi",
+  "version": "1.0.2",
+  "description": "Synup API library",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "synup",
+    "business",
+    "location"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rakeshf/synupapi.git"
+  },
+  "author": {
+    "name": "Rakesh Falke",
+    "email": "rakeshfalke@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
