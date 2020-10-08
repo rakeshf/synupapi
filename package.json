@@ -1,6 +1,6 @@
 {
   "name": "synupapi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Synup API library",
   "main": "./lib/index.js",
   "scripts": {
